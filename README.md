@@ -1,6 +1,4 @@
-
-- Cycling (FTP 2xx, PWR 3.xx) and Muay Thai.
-- 
+- TBD
 
 
 
